@@ -1,0 +1,1 @@
+"Developed an ATM simulation project in Java, integrating secure user authentication, balance inquiries, deposits, and withdrawals. This project enhanced my programming skills by simulating real-world banking operations through a user-friendly interface."
